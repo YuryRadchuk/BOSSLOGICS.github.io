@@ -1,0 +1,50 @@
+@font-face {
+  font-family: 'Geometria-Medium';
+  src: url('Geometria-Medium.eot');
+  src: url('Geometria-Medium.eot?#iefix') format('embedded-opentype'),
+    url('Geometria-Medium.svg#Geometria-Medium') format('svg'),
+    url('Geometria-Medium.ttf') format('truetype'),
+    url('Geometria-Medium.woff') format('woff'),
+    url('Geometria-Medium.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+
+  font-family: 'Geometria-Bold';
+  src: url('Geometria-Bold.eot');
+  src: url('Geometria-Bold.eot?#iefix') format('embedded-opentype'),
+    url('Geometria-Bold.svg#Geometria-Bold') format('svg'),
+    url('Geometria-Bold.ttf') format('truetype'),
+    url('Geometria-Bold.woff') format('woff'),
+    url('Geometria-Bold.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+
+  font-family: 'Geometria-Light';
+  src: url('Geometria-Light.eot');
+  src: url('Geometria-Light.eot?#iefix') format('embedded-opentype'),
+    url('Geometria-Light.svg#Geometria-Light') format('svg'),
+    url('Geometria-Light.ttf') format('truetype'),
+    url('Geometria-Light.woff') format('woff'),
+    url('Geometria-Light.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+
+  font-family: 'Geometria';
+  src: url('Geometria.eot');
+  src: url('Geometria.eot?#iefix') format('embedded-opentype'),
+    url('Geometria.svg#Geometria') format('svg'),
+    url('Geometria.ttf') format('truetype'),
+    url('Geometria.woff') format('woff'),
+    url('Geometria.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-family: 'Geometria-ExtraBold';
+  src: url('Geometria-ExtraBold.eot');
+  src: url('Geometria-ExtraBold.eot?#iefix') format('embedded-opentype'),
+    url('Geometria-ExtraBold.svg#Geometria-ExtraBold') format('svg'),
+    url('Geometria-ExtraBold.ttf') format('truetype'),
+    url('Geometria-ExtraBold.woff') format('woff'),
+    url('Geometria-ExtraBold.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
